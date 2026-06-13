@@ -62,7 +62,7 @@ print(Song.artist_count)        # {'Jay Z': 1, 'Beyonce': 2, 'Nirvana': 1}
 ## Test Results
 
 <!-- Add a screenshot of your passing test output here -->
-![Test Results](screenshot.png)
+![alt text](screenshot.png)
 
 ## Setup
 
